@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Bee Movie Frame',
     description: "Because bees don't care what humans think is impossible.",
-    images: [`${NEXT_PUBLIC_URL}/output-1.png`],
+    images: [`${NEXT_PUBLIC_URL}/output-1.jpg`],
   },
   other: {
     ...frameMetadata,
